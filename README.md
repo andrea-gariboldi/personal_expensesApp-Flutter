@@ -1,2 +1,2 @@
-#Personal expenses app
+# Personal expenses app
 
